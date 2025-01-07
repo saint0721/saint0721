@@ -2,8 +2,8 @@
 
 I’m a passionate **Full-Stack Developer** and **AI Enthusiast** who loves creating innovative projects and solving complex problems. Welcome to my GitHub! 🎉
 
-- 🔭 I’m currently working on: **AI-powered applications and backend optimization**
-- 🌱 I’m currently learning: **MLOps, Advanced React**
+- 🔭 I’m currently working on: **Konkuk University Master degree**
+- 🌱 I’m currently learning: **Deep Learning, Web Devlopment, LoRa, Infra**
 - 💬 Ask me about: **Web development, AI, and Docker**
 
 ---
