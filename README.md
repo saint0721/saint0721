@@ -19,6 +19,7 @@ I’m a passionate **Full-Stack Developer** and **AI Enthusiast** who loves crea
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,25 +42,11 @@ I’m a passionate **Full-Stack Developer** and **AI Enthusiast** who loves crea
 [![Saint's GitHub stats](https://github-readme-stats.vercel.app/api?username=saint0721&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint0721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🚀 Projects
-
-### [🌟 **My Portfolio Website**](https://example.com)
-A personal portfolio showcasing my projects, skills, and experiences.
-
-### [📦 **AI-Powered Image Classifier**](https://github.com/saint0721/image-classifier)
-An image classification project using PyTorch and Weights & Biases.
-
-### [🔐 **Secure Authentication System**](https://github.com/saint0721/auth-system)
-A full-stack project focusing on secure authentication with Node.js and JWT.
 
 ---
 
 ## 📫 Let's Connect!
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikim0721@gmail.com)
 
 ---
 
