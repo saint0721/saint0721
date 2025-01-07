@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Send me a Email!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikim0721@gmail.com)
 
 ---
