@@ -44,7 +44,7 @@
 
 ## CV
 
-![CV](https://github.com/saint0721/saint0721/blob/main/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%ABcv.pdf)
+[:열린_파일_폴더: View My CV](https://github.com/saint0721/saint0721/blob/main/saint_cv.pdf)
 
 ---
 
