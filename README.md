@@ -1,6 +1,6 @@
 # Kim Seong In
 ![Saint's GitHub stats](https://github-readme-stats.vercel.app/api?username=saint0721&show_icons=true) <br>
-[![Solved.ac saint](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac sikim0721](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint0721)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skills
