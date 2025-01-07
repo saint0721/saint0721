@@ -42,9 +42,9 @@
 
 ---
 
-## CV
+## 📄 CV
 
-![[:열린_파일_폴더: View My CV](https://github.com/saint0721/saint0721/blob/main/saint_cv.pdf)]
+[📂 View My CV](https://github.com/saint0721/saint0721/blob/main/saint_cv.pdf)
 
 ---
 
