@@ -42,6 +42,12 @@
 
 ---
 
+## CV
+
+![CV](https://github.com/saint0721/saint0721/blob/main/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%ABcv.pdf)
+
+---
+
 ## 📫 Send me a Email!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikim0721@gmail.com)
 
