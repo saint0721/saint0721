@@ -5,7 +5,6 @@ I’m a passionate **Full-Stack Developer** and **AI Enthusiast** who loves crea
 - 🔭 I’m currently working on: **AI-powered applications and backend optimization**
 - 🌱 I’m currently learning: **MLOps, Advanced React**
 - 💬 Ask me about: **Web development, AI, and Docker**
-- ⚡ Fun fact: **I can debug code faster than I can cook ramen! 🍜**
 
 ---
 
