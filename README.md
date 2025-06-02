@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Kim Seong In!
 
 - 🔭 I’m currently working on: **Konkuk University Graduate student**
-- 🌱 I’m currently learning: **Deep Learning, Web Devlopment, LoRa, Infra**
-- 💬 Ask me about: **Web development, AI, and Docker**
+- 🌱 I’m currently learning: **Deep Learning**
 
 ---
 
@@ -31,14 +30,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![Saint's GitHub stats](https://github-readme-stats.vercel.app/api?username=saint0721&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint0721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
